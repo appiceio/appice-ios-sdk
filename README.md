@@ -1,2 +1,2 @@
-# src_ios_appice-sdk
+# appice-ios-sdk
 For iOS SDK code
