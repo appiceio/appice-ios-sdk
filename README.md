@@ -15,11 +15,11 @@ CocoaPods is a dependency manager for Objective C (or Swift) projects and makes 
    
    ```pod 'AppICE-IOS-SDK'```
 
-3. Install MoEngage SDK by executing the following in the Xcode project directory.
+3. Install appICE SDK by executing the following in the Xcode project directory.
 
    ```pod install```
 
-4. Now, open your project workspace and check if MoEngage SDK is properly added.
+4. Now, open your project workspace and check if appICE SDK is properly added.
 
 ### SDK Initialization
 
