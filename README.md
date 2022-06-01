@@ -30,11 +30,11 @@ Login to your appICE account, go to Settings in the left panel of the dashboard.
 
 2. Add appICE project attributes.
 
-   (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+   ```(BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {```
   
-   ```[appICE setupKeys:@"YOUR_APP_KEY" withapiKey:@"YOUR_API_KEY" withappId:@"YOUR_APP_ID" otherSdkdeviceId:@"OtherAnalytics_distinctID" region:nil baseUrl:nil  
-   certficates:nameArr];```
-   }
+   ```[appICE setupKeys:@"YOUR_APP_KEY" withapiKey:@"YOUR_API_KEY" withappId:@"YOUR_APP_ID" otherSdkdeviceId:@"OtherAnalytics_distinctID" region:nil baseUrl:nil```  
+   ```certficates:nameArr];```
+   ```}```
    
    NOTE: If you are not using any other analytics tool in your project, please replace OtherAnalytics_distinctID with “” (i.e. empty string)
    
