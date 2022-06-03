@@ -43,3 +43,11 @@ Login to your appICE account, go to Settings in the left panel of the dashboard.
    ```[[appICE sharedInstance] startContext];```
    
 Thats it!! SDK is successfully integrated in the project and is ready to use.
+
+## Support
+
+For any issues related to SDK integration, contact us at csm@appice.io.
+
+## Product Demo
+
+[Schedule a demo](https://www.appice.io/mobile-marketing-automation/?utm_source=github&utm_medium=ios&utm_campaign=schedule-a-demo) to know more about product features.
